@@ -1,0 +1,1 @@
+const boolVal = require("./exportBoolean");
